@@ -2,5 +2,5 @@
 
 int main() {
   printf("Prova di pull request");
-  printf("Andrea Barbin\n);
+  printf("Andrea Barbin\n");
 }

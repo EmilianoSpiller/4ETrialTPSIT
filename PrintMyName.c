@@ -5,6 +5,6 @@ int main() {
   printf("Bernardinello Tommaso");
   printf("Mizzon Alessandro\n");
   printf("Rizzi Brian");
-  printf("Boccardo Dario \n")
-
+  printf("Boccardo Dario \n");
+  ptintf("Kostiantyn Naftulovych \n");
 }
